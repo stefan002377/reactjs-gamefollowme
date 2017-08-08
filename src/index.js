@@ -70,7 +70,7 @@ class TestInfor extends React.Component {
     temptime += 1;
     let templevel = Math.ceil(temptime/5);
     let tempscore = this.state.score;
-    tempscore += templevel*this.state.size*2;
+    tempscore += templevel*this.state.size*4;
     this.setState({
       time: temptime,
       score: tempscore,
