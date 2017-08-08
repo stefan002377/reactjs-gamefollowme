@@ -1,0 +1,73 @@
+.gamefollow {
+  margin: 0 auto;
+  width: 800px;
+}
+
+.gamefollow .nquest {
+  margin-top: 35px;
+}
+
+.gamefollow .header {
+  margin-bottom: 20px;
+}
+
+.gamefollow .topbar {
+  margin: 0 0 20px;
+}
+
+.gamefollow .zonemove {
+  border: 1px solid #46b8da;
+  height: 600px;
+  position: relative;
+}
+
+.gamefollow .boxmove {
+  background: grey;
+  width: 150px;
+  height: 150px;
+  position: absolute;
+}
+
+.gamefollow .boxmove:hover {
+  background: green;
+}
+
+.gamefollow .lose h2 {
+  margin-top: 100px;
+  margin-bottom: 30px;
+}
+
+.gamefollow .lose h5 {
+  margin-bottom: 30px;
+}
+
+.gamefollow .size .btn {
+  margin-left: 10px;
+  border-radius: 0px;
+}
+
+.gamefollow .zonemove .btn-info1 {
+  width: 200px;
+  height: 200px;
+}
+
+.gamefollow .zonemove .btn-info2 {
+  width: 100px;
+  height: 100px;
+}
+
+.gamefollow .zonemove .btn-info4 {
+  width: 50px;
+  height: 50px;
+}
+
+.gamefollow .topbar span {
+  font-weight: bold;
+}
+
+.gamefollow .caption {
+  padding: 10px 18px;
+  clear: both;
+  font-size: 11px;
+  font-style: italic;
+}
